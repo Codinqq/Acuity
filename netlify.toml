@@ -1,0 +1,29 @@
+[[redirects]]
+    from = "twitter"
+    to = "https://twitter.com/AcuityDev"
+    status = 301
+    force = false
+
+[[redirects]]
+    from = "codinq"
+    to = "https://twitter.com/codinqdev"
+    status = 301
+    force = false
+
+[[redirects]]
+    from = "discord"
+    to = "https://discord.gg/AhB5fqdDae"
+    status = 301
+    force = false
+
+[[redirects]]
+    from = "invite"
+    to = "https://discord.com/api/oauth2/authorize?client_id=996100120108077056&permissions=2185064087286&scope=bot%20applications.commands"
+    status = 301
+    force = false
+
+[[redirects]]
+    from = "fluid"
+    to = "https://www.guilded.gg/Fluid"
+    status = 301
+    force = false
