@@ -1,0 +1,14 @@
+{
+    "mainColor": "#404040",
+    "errorColor": "#c62828",
+    "token": "TOKEN",
+    "betaToken": "TOKEN",
+    "steamToken": "TOKEN",
+    "mongoose": "URI",
+    "version": "1.0.0",
+    "inDevelopment": false,
+    "debugEnabled": false,
+    "erelaEnabled": false,
+    "twitchToken": "TOKEN",
+    "ownerID": "OWNER ID"
+} 
